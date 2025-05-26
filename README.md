@@ -19,8 +19,13 @@ We bumped into one object, but gained bonus points back for novel idea, such as 
 - UART output for real-time data.
 
 ## Demo
-- Scanning: Robot scans 180° with PING/IR sensors, reporting distances via PuTTY.
+- Scanning: Robot scans 180° with PING/IR sensors, measuring distance delta to identify objects, reporting distances via PuTTY.
+
+![scanning_final](https://github.com/user-attachments/assets/59293ee2-c062-4f63-a7a6-f3420bf869b7)
+
 - Movement: Robot navigates, avoiding obstacles and responding to manual inputs.
+
+
 
 ## Requirements
 - Hardware: TM4C123GH6PM, iRobot Create 2, PING/IR sensors, servo, LCD.
