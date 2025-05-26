@@ -5,6 +5,7 @@ Embedded C project for an autonomous robot on the iRobot Create 2 with TM4C123GH
 
 ## Grade: 100%
 We bumped into one object, but gained bonus points back for novel idea, such as identifying teammates / game-winning animation.
+
 ![IMG_77077](https://github.com/user-attachments/assets/4606466a-f663-4127-a987-cd2e78bc5903)
 
 
