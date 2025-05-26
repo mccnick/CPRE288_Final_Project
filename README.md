@@ -27,6 +27,13 @@ We bumped into one object, but gained bonus points back for novel idea, such as 
 
 
 
+https://github.com/user-attachments/assets/68510b5c-cfe4-44e7-8917-c5dd0be1ef3d
+
+https://github.com/user-attachments/assets/2e1ce2d3-079a-4fb7-852c-39b8695cacfb
+
+
+
+
 ## Requirements
 - Hardware: TM4C123GH6PM, iRobot Create 2, PING/IR sensors, servo, LCD.
 - Software: Code Composer Studio, PuTTY (115200 baud), cyBot_Scan.h, movement.h, uart-interrupt.h, adc.h, timer.h, lcd.h.
